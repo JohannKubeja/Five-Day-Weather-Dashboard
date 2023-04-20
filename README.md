@@ -25,7 +25,7 @@ THEN I am again presented with current and future conditions for that city
 
 <h1> URL Links </h1>
 
-Deployed Webpage:https:
+Deployed Webpage:https:https://johannkubeja.github.io/Five-Day-Weather-Dashboard/
 
 <h1> Screenshot </h1>
 
